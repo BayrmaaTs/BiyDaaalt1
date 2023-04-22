@@ -1,0 +1,21 @@
+.section {
+    background: url("flower.jpg");
+    width: 100%;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+    float:right;
+}
+
+.section2 {
+    text-align:center;
+    padding: 20%;
+}
+.header3 {
+    font-size: xx-large;
+}
+.paragraph {
+    line-height:0.1;
+   
+}
+
