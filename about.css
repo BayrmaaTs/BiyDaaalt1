@@ -1,0 +1,34 @@
+.cl {
+    width:30px;
+    height:30px;
+
+}
+.v{
+    border-left: 2px dotted black;
+            height: 200px;
+            position:absolute;
+            left:30%;
+            height:100vh;
+               
+}
+.color{
+    color:grey;
+}
+.hr {
+   
+    border-bottom: 1px solid grey;
+    width: 100%;
+    position: absolute;
+    left: 30%;
+    top:20%;
+
+  }
+.img-rounded {
+    height:auto;
+    width:80%;
+}
+.space {
+    margin-top: 10%;
+}
+
+
